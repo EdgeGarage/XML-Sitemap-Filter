@@ -1,10 +1,9 @@
 === XML Sitemap Filter ===
-Contributors: Michael Scheibl
-Donate link: https://ko-fi.com/scheibl
-Tags: sitemap, xml sitemap, seo, exclude, filter, wordpress sitemap
-Requires at least: 5.5
-Tested up to: 6.5
-Stable tag: 3.5.0
+Contributors: sigruppe (SCHEIBL+Partner)
+Tags: sitemap, xml, seo, exclude, filter
+Requires at least: 5.0
+Tested up to: 6.9
+Stable tag: 3.5.1
 License: GPLv2 or later
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
 
