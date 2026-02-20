@@ -1,4 +1,4 @@
-=== WP Sitemap Filter ===
+=== XML Sitemap Filter ===
 Contributors: Michael Scheibl
 Donate link: https://ko-fi.com/scheibl
 Tags: sitemap, xml sitemap, seo, exclude, filter, wordpress sitemap
@@ -15,7 +15,7 @@ A lightweight plugin to control which posts, pages, taxonomies and users appear 
 WordPress includes a built‑in XML sitemap since version 5.5.  
 However, it does not allow you to exclude individual posts, pages, categories, tags or users — nor does it allow disabling sitemap providers.
 
-**WP Sitemap Filter** adds a simple and clean interface to:
+**XML Sitemap Filter** adds a simple and clean interface to:
 
 * Exclude posts, pages, categories, tags or users
 * Disable entire sitemap providers (posts, taxonomies, users)
@@ -29,7 +29,7 @@ This plugin is lightweight, fast and fully compatible with caching plugins.
 
 1. Upload the plugin folder to `/wp-content/plugins/`
 2. Activate the plugin in the WordPress admin
-3. Go to **WP Sitemap Filter** in the admin menu
+3. Go to **XML Sitemap Filter** in the admin menu
 
 == Frequently Asked Questions ==
 
